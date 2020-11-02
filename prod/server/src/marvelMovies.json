@@ -1,0 +1,170 @@
+{
+
+"marvelMovies":  {
+  "marvelContent": [
+    {
+      "movie": "Iron Man",
+      "id": 1,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/31UiPirP4GL._AC_.jpg",
+      "stars": "7.9"
+    },
+    {
+      "movie": "The Incredible Hulk",
+      "id": 2,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/61ikONHVOAL._AC_SL1096_.jpg",
+      "stars": "6.7"
+    },
+    {
+      "movie": "Iron Man 2",
+      "id": 3,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/51NmKAxJn5L._AC_.jpg",
+      "stars": "7"
+    },
+    {
+      "movie": "Thor",
+      "id": 4,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/712jxyTOUbL._AC_SL1000_.jpg",
+      "stars": "7"
+    },
+    {
+      "movie": "Captain America: The First Avenger",
+      "id": 5,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/71krfsS5kNL._AC_SL1000_.jpg",
+      "stars": "6.9"
+    }, 
+    {
+      "movie": "The Avengers",
+      "id": 6,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/91A7%2BkXg75L._AC_SL1500_.jpg",
+      "stars": "8"
+    },
+    {
+      "movie": "Iron Man 3",
+      "id": 7.2,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/91duBICErDL._AC_SL1500_.jpg",
+      "stars": "8"
+    },
+    {
+      "movie": "Thor: The Dark World",
+      "id": 6.9,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/61%2Bbj6-zqXL._AC_.jpg",
+      "stars": "8"
+    },
+    {
+      "movie": "Captain America: The Winter Soldier",
+      "id": 9,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/81bcYgX-8QL._AC_SL1500_.jpg",
+      "stars": "7.7"
+    },
+    {
+      "movie": "Guardians of the Galaxy",
+      
+      "id": 10,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/51T5sJngQLL._AC_.jpg",
+      "stars": "8"
+    }, 
+    {
+      "movie": "Avengers: Age of Ultron",
+      "id": 11,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/7155LkI6wlL._AC_SL1015_.jpg",
+      "stars": "7.3"
+    },
+    {
+      "movie": "Ant-Man",
+      "id": 12,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/71sUWL9W95L._AC_SL1000_.jpg",
+      "stars": "7.3"
+    },
+    {
+      "movie": "Captain America: Civil War",
+      "id": 13,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/71QiOu1%2BceL._AC_SL1000_.jpg",
+      "stars": "7.8"
+    },
+    {
+      "movie": "Doctor Strange",
+      "id": 14,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/818x-d2qUuL._AC_SL1500_.jpg",
+      "stars": "7.5"
+    },
+    {
+      "movie": "Guradians of the Galaxy Vol. 2",
+      "id": 15,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/71EL0n7iT2L._AC_SL1000_.jpg",
+      "stars": "7.6"
+    }, 
+    {
+      "movie": "Spider-Man: Homecoming",
+      "id":16,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/81GdgigtG%2BL._AC_SL1500_.jpg",
+      "stars": "7.4"
+    },
+    {
+      "movie": "Thor: Ragnarok",
+      "id": 17,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/81LHuCYlgEL._AC_SL1200_.jpg",
+      "stars": "7.9"
+    },
+    {
+      "movie": "Black Panther",
+      "id": 18,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/71BHCzlOdSL._AC_SL1000_.jpg",
+      "stars": "7.3"
+    },
+    {
+      "movie": "Avengers: Infinity War",
+      "id": 19,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/81En6m%2BG2%2BL._AC_SL1500_.jpg",
+      "stars": "8.4"
+    },
+    {
+      "movie": "Ant Man And The Wasp",
+      "id": 20,
+      "poster":
+        "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "stars": "7.1"
+    }, 
+    {
+      "movie": "Captain Marvel",
+      "id": 21,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/51CsRMATOjL._AC_.jpg",
+      "stars": "6.9"
+    },
+    {
+      "movie": "Avengers End Game",
+      "id": 22,
+      "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/A1inGqJJHXL._AC_SL1500_.jpg",
+      "stars": "8.4"
+    },
+    {
+      "movie": "Spider Man: Far From Home",
+      "id": 23,
+    "poster":
+        "https://images-na.ssl-images-amazon.com/images/I/81OQS7d19UL._AC_SL1500_.jpg",
+      "stars": "7.5"
+    }]
+}}
+
+
+  
