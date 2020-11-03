@@ -3,7 +3,7 @@
 
 # dependencies
 /prod/client/node_modules
-/node_modules
+/prod/server/node_modules
 /.pnp
 .pnp.js
 .env
