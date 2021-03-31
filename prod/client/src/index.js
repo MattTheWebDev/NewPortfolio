@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Main from './components/Main'
 import MarvelSelector from './components/MarvelSelector'
 import CookingApp from "./components/CookingApp"
-import Calculator from "./components/Calculator";
+
 
 
 
@@ -19,7 +19,6 @@ const App = () => {
           <Route exact path="/" component={Main} />
           <Route exact path="/marvelapp" component={MarvelSelector} />
           <Route exact path="/cookingapp" component={CookingApp} />
-          <Route exact path="/calculator" component={Calculator} />
         </Switch>
       </Router>
       

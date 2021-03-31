@@ -2,7 +2,7 @@ import React from "react";
 import { Link, Route, Switch } from "react-router-dom";
 import MarvelSelector from "./MarvelSelector";
 import CookingApp from "./CookingApp"
-import Calculator from "./Calculator";
+
 
 class Work extends React.Component {
   render() {
@@ -18,7 +18,7 @@ class Work extends React.Component {
                 <Link to="/cookingapp">Work 2</Link>
               </div>
               <div className="workItem">
-              <Link to="/calculator">Work 3</Link></div>
+              </div>
               <div className="workItem">Work 4</div>
               <div className="workItem">Work 5</div>
               <div className="workItem">Work 6</div>
@@ -28,7 +28,7 @@ class Work extends React.Component {
         <Switch>
           <Route path="marvelapp" component={MarvelSelector} />
           <Route path="cookingapp" component={CookingApp} />
-          <Route path='calculator' component={Calculator} />
+       
         </Switch>
       </div>
     );
